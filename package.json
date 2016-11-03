@@ -9,7 +9,9 @@
     "serviceURL": "https://plug.dj",
     "serviceName": "Plug.DJ - Collaborative music listening sessions",
     "message": "Listen to music with friends",
-    "popup": [],
+    "popup": [
+      "^https://www.facebook.com/v2.4/dialog/oauth?"
+    ],
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
     "hasTeamID": false,
@@ -18,6 +20,6 @@
     "webviewOptions": {
       "disablewebsecurity": ""
     },
-    "openDevTools": true
+    "openDevTools": false
   }
 }

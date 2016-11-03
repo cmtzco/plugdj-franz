@@ -5604,4 +5604,5 @@ module.exports = (Franz, options) => {
     function isLoaded() {
         return window.require && window.define && window.API && window.jQuery && window.jQuery('#room').length > 0;
     }
-})();}
+})();
+}
