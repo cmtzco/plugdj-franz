@@ -15,4 +15,4 @@
 ## TO-DO
 - Work on Facebook Login, currently only email login works
 - Add chat notification support
-- Possibly add AutoWoot capability
+- Possibly add AutoWoot capability (Currently testing Plug Cubed https://plugcubed.net/)
