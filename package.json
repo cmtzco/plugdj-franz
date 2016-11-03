@@ -1,0 +1,23 @@
+{
+  "name": "plugdj-franz",
+  "version": "1.0.0",
+  "description": "Franz plugin for Plug.DJ",
+  "main": "index.js",
+  "author": "Chris Martinez <chris@cmtz.co>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://plug.dj",
+    "serviceName": "Plug.DJ - Collaborative music listening sessions",
+    "message": "Listen to music with friends",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
