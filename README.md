@@ -1,5 +1,9 @@
 # PlugDJ-Franz
 
+## Features
+- Access private communities
+- AutoWoot (PlugCubed) 
+
 ## Installation
 1. To install a new integration, clone/download the integration folder e.g `plugdjfranz`.
 2. Open the Franz Plugins folder on your machine:
@@ -15,7 +19,6 @@
 ## TO-DO
 - Work on Facebook Login, currently only email login works
 - Add chat notification support
-- Possibly add AutoWoot capability (Currently testing Plug Cubed https://plugcubed.net/)
 
 ## Joining a Private channel
 If you have a url for a private channel 
