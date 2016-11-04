@@ -16,3 +16,10 @@
 - Work on Facebook Login, currently only email login works
 - Add chat notification support
 - Possibly add AutoWoot capability (Currently testing Plug Cubed https://plugcubed.net/)
+
+## Joining a Private channel
+If you have a url for a private channel 
+e.g. https://plug.dj/-8818336367130256446
+you just use the id (-8818336367130256446) as the team id. 
+
+If the URL is left blank it will fail so just enter a space as this is still being worked on.  
