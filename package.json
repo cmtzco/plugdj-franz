@@ -6,20 +6,19 @@
   "author": "Chris Martinez <chris@cmtz.co>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://plug.dj",
-    "serviceName": "Plug.DJ - Collaborative music listening sessions",
+    "serviceURL": "https://plug.dj/{teamID}/#login",
+    "serviceName": "Plug.DJ",
     "message": "Listen to music with friends",
     "popup": [
       "^https://www.facebook.com/v2.4/dialog/oauth?"
     ],
     "hasNotificationSound": true,
     "hasIndirectMessages": true,
-    "hasTeamID": false,
     "customURL": false,
-    "hostedOnly": false,
+    "hasTeamID": true,
     "webviewOptions": {
       "disablewebsecurity": ""
     },
-    "openDevTools": false
+    "openDevTools": true
   }
 }
